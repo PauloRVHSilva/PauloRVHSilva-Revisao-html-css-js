@@ -1,0 +1,32 @@
+header{
+  
+  background-color: Black;
+  text-align: center;
+  color: white;
+  font-family: "Times New Roman", "Arial",sans-serif;
+  font-size: 30px;
+}
+
+
+.TabelaLivros{
+  
+  text-align: center;
+  font-family: "Times New Roman";
+ 
+}
+
+footer{
+  
+  background-color:green;
+  font-family: "Times New Roman", "Arial",sans-serif;
+  font-size: 20px;
+  
+}
+
+img:hover{
+  
+  transform: rotate(-10deg);
+  height: 220px;
+  width: 170px;
+ 
+}
